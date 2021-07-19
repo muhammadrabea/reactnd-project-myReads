@@ -15,7 +15,7 @@ They represent the book shelves for the app that the books settle in.
 
 1. **Clone the repositery**
 ```bash
-$ git clone https://github.com/james-priest/reactnd-project-myreads.git
+$ git clone https://github.com/muhammadrabea/reactnd-project-myReads
 ```
 2. **Go to the project directory**
 ```bash
